@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest maydens loyalty or, The young mans faithfull constancy. He vowes to endure the wrack and the [...] and suffer dearly for his true loves sake. To a pretty new tune, or Wert thou more fairer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03675</idno>
+            <idno type="STC">Wing H2587AA</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[34]</idno>
+            <idno type="EEBO-CITATION">99887566</idno>
+            <idno type="PROQUEST">ocm99887566</idno>
+            <idno type="VID">182292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182292)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest maydens loyalty or, The young mans faithfull constancy. He vowes to endure the wrack and the [...] and suffer dearly for his true loves sake. To a pretty new tune, or Wert thou more fairer.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. G[ilbertson]. dwelling in Gilt-spur-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication and publisher's name from Wing.</note>
+                  <note>Verse: "Most early in a morning faire ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: mutilated, affecting title and text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182292:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>The honeſt Maydens loyalty</head>
+            <head type="sub">OR, The young mans faithfull conſtancy.</head>
+            <argument>
+               <l>He vowes to endure the Wrack and the <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And ſuffer dearly for his true loves ſake.</l>
+            </argument>
+            <opener>To a pretty new Tune, Or, <hi>wert thou more fairer.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>MOſt early in a morning faire</l>
+                  <l>a young man ſung this ſolemn quire</l>
+                  <l>Where his deare ſwéeting did uſe to lie,</l>
+                  <l>and thus lamenting he did cry,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Farewel ſweet heart, for I muſt be gone,</hi>
+                     </l>
+                     <l>
+                        <hi>but ile have my love, or ile have none.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Set forty thouſand all arow</l>
+                  <l>there's none can make ſo fair a ſhow</l>
+                  <l>For in the Pallace of her twinkling eyes,</l>
+                  <l>I ſee how amorous <hi>Cupid</hi> flyes.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>As for my part I have choſen one,</hi>
+                     </l>
+                     <l>
+                        <hi>And ile have my love, or ile have non.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>No rack nor <unclear>ſtack</unclear> with tortures great</l>
+                  <l>that ſhall my love entire defeat,</l>
+                  <l>I doe not waver like the turning wind,</l>
+                  <l>but bare a lovers conſtan<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mind.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>As for my part, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> can love ſo true as I,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> ſo ſick yet cannot dye.</l>
+                  <l>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> 
+                     <unclear>kiss</unclear> can <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> heart <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>and make a lov<gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-ſick man alive.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>As by experience is wel known,</hi>
+                     </l>
+                     <l>
+                        <hi>And ile have &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A Lady in her highdegrée,</l>
+                  <l>her lofty mind cannot fanc
+y me:</l>
+                  <l>For many are ambitious in there waies,</l>
+                  <l>but maydens chaſte young men ſhould praiſe.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>I wil be faithful to mine own</hi>
+                     </l>
+                     <l>
+                        <hi>For ile have &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your City Dames with mincing feates</l>
+                  <l>have many tricks, and fine conceits:</l>
+                  <l>But my true love is vertuous, chaſte and wiſe</l>
+                  <l>and like an Angel in my eyes.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>As for my &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Into ſome far Country ile goe,</l>
+                  <l>confine myſelfe to care and woe.</l>
+                  <l>Til fickle fortune doe pleaſe to ſmile,</l>
+                  <l>that has ſo lo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>red all this while.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>As for my part I have choſe one,</hi>
+                     </l>
+                     <l>
+                        <hi>And ile have my love <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> ile have non.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>BVt marke how <hi>Bateman</hi> dy'd for love<g ref="char:punc">▪</g>
+                  </l>
+                  <l>he finiſht up his life,</l>
+                  <l>The very day ſhe married was,</l>
+                  <l>and made old <hi>Jermans</hi> Wife.</l>
+                  <l>For with a ſtrangling Cord, God wot,</l>
+                  <l>great moane was made ther fore.</l>
+                  <l>He hang'd himſelfe in deſperate ſort,</l>
+                  <l>before the Brides owne doore.</l>
+               </lg>
+               <lg>
+                  <l>Whereat ſuch ſorrow pierc'd her heart</l>
+                  <l>and troubled ſore her mind</l>
+                  <l>That ſhe could never after that,</l>
+                  <l>one day of comfort find:</l>
+                  <l>For whereſoever that ſhe went,</l>
+                  <l>her fancy did ſurmiſe,</l>
+                  <l>Young <hi>Batemans</hi> pale and gaſtly ghoſt,</l>
+                  <l>appear'd before her eyes.</l>
+               </lg>
+               <lg>
+                  <l>When ſhe in bed a nights did lye,</l>
+                  <l>betweene her Husbands armes,</l>
+                  <l>In hope thereby to ſleepe and reſt,</l>
+                  <l>in ſafety without harmes:</l>
+                  <l>great crys &amp; grievous groans ſhe heard</l>
+                  <l>a voyce that ſometimes ſaid,</l>
+                  <l>O thou art ſhe that I muſt have,</l>
+                  <l>and muſt not be denay'd.</l>
+               </lg>
+               <lg>
+                  <l>But ſhe then being big with Child,</l>
+                  <l>was for the Infants ſake</l>
+                  <l>Preſerved from the Spirits power,</l>
+                  <l>no vengeance could it take:</l>
+                  <l>The Babe unborne did ſafely keepe,</l>
+                  <l>as God appoynted ſo</l>
+                  <l>His Mothers body from the Fiend,</l>
+                  <l>that ſought her overthrow.</l>
+               </lg>
+               <lg>
+                  <l>But being of her burthen eas'd,</l>
+                  <l>and ſafely brought to bed,</l>
+                  <l>Her cares and griefs began anew,</l>
+                  <l>and further ſorrowes bred:</l>
+                  <l>And of her friends ſhe cid increaſe,</l>
+                  <l>deſiring them to ſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay,</l>
+                  <l>Out of my bed quoth ſhe this night</l>
+                  <l>I ſhall be borne away.</l>
+               </lg>
+               <lg>
+                  <l>Here comes the Spirit of my Love,</l>
+                  <l>with pale and gaſtly face</l>
+                  <l>Who till he takes me hence with him,</l>
+                  <l>will not depart this place:</l>
+                  <l>Alive or dead I am his right,</l>
+                  <l>and he will ſurely have,</l>
+                  <l>In ſpight of me and all the World,</l>
+                  <l>What I by promiſe gave.</l>
+               </lg>
+               <lg>
+                  <l>O watch with me this night I pray,</l>
+                  <l>and ſee you doe not ſleepe ,</l>
+                  <l>No longer that you be awake</l>
+                  <l>my body can you keepe:</l>
+                  <l>All promiſed to doe the beſt,</l>
+                  <l>yet nothing could ſuffice,</l>
+                  <l>At middle of the night to ke<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe</l>
+                  <l>ſad ſlumber from their eyes,</l>
+               </lg>
+               <lg>
+                  <l>So being all full faſt aſleepe,</l>
+                  <l>to them unknowne which wayes</l>
+                  <l>The Child-bed Wife that wofull night,</l>
+                  <l>from thence was borne away:</l>
+                  <l>But to what place no cre<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ture knew,</l>
+                  <l>nor to this day can tell,</l>
+                  <l>As ſtrange a thing as ever yet</l>
+                  <l>in any age befell</l>
+               </lg>
+               <lg>
+                  <l>You Maidens that deſire to love,</l>
+                  <l>and would good Husbands chuſe,</l>
+                  <l>To him that you have vow'd your love.</l>
+                  <l>by no meanes doe refuſe:</l>
+                  <l>For God that heares all ſecret Oaths</l>
+                  <l>Will dreadfull vengeance take</l>
+                  <l>On ſuch as of a <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Vow</l>
+                  <l>doe ſlender rekoning make,</l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>W. G.</hi> dwelling in <hi>Gilt-ſpur-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
